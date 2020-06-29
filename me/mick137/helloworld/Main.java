@@ -4,7 +4,7 @@ package me.mick137.helloworld;
 
 public class Main {
 	
-	public static void mick137(String[] args) {
+	public static void main(String[] args) {
 		
 		System.out.print("Hello World!!!!!");
 		
