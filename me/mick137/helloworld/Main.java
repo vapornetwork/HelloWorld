@@ -1,4 +1,4 @@
-// Note: i made this when i was 9. So chill budy.
+// Note: i made this when i was 6*. So chill budy.
 
 package me.mick137.helloworld;
 
